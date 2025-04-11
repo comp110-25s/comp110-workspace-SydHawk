@@ -1,6 +1,6 @@
 __author__: str = "730663953"
 
-from exercises.ex03.ex03.dictionary import invert, count, favorite_color, bin_len
+from exercises.ex03.dictionary import invert, count, favorite_color, bin_len
 
 # Invert Unit Tests
 
